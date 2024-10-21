@@ -1,15 +1,10 @@
-
-
-import PostList from './Components/PostList.jsx';
-
-
-const App = () => {
-  return (
+import ProductList from "./Components/ProductList"
+const App = () =>{
+  return(
     <div>
-      <PostList/>
-
+      <ProductList/>
+    
     </div>
-  );
-};
-
-export default App;
+  )
+ }
+ export default App;
