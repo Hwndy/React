@@ -1,0 +1,15 @@
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-post h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
